@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\Dell\Downloads\Project1\Project1\Main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Match.cpp
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(36,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(65,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(179,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(89): warning C4715: 'Match::Toss': not all control paths return a value
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(170): warning C4715: 'Match::bowlingBehaviour': not all control paths return a value
+C:\Users\Dell\Downloads\Project1\Project1\Match.cpp(227): warning C4715: 'Match::bowlingComputer': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Dell\Downloads\Project1\Project1\Debug\Project1.exe

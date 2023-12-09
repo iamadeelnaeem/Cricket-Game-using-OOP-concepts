@@ -1,0 +1,84 @@
+1-Shahid Afridi
+2-Hafeez
+3-Umer Akmal
+4-Baber Azam
+5-Abdul Razaq
+6-Muhammad Rizwan
+7-Sohail
+8-Shoiab Malik
+9-Inzamam ul haq
+10-Waseem
+11-Amir
+12-Shadab khan
+13-Fakher Zaman
+14-Misbah
+15-Yousaf
+16-Hassan
+
+1-Peter Forrest	
+2-Nathan Lyon	
+3-George Bailey	
+4-Glenn Maxwell	
+5-Aaron Finch	
+6-Phillip Hughes	
+7-Usman Khawaja	
+8-Ben Cutting	
+9-Kane Richardson		
+10-James Faulkner	
+11-Fawad Ahmed	
+12-Nathan Coulter-Nile	
+13-Sean Abbott	
+14-Gurinder Sandhu	
+15-Joe Burns	
+16-Ashton Agar		
+
+1-Ben Wheeler
+2-Andrew Mathieson
+3-Ish Sodhi
+4-George Worker
+5-Henry Nicholls
+6-Lockie Ferguson
+7-Scott Kuggeleijn
+8-Seth Rance
+9-Todd Astle
+10-Mark Chapman3
+11-Tim Seifert
+12-Tom Blundell
+13-Kyle Jamieson
+14-Devon Conway
+15-Daryl Mitchell
+16-Will young
+
+1-Tendai Chisoro
+2-Carl Mumba
+3-Tarisai Musakanda
+4-Ryan Burl
+5-Richard Ngarava
+6-Blessing Muzarabani
+7-Ryan Murray
+8-Liam Roche
+9-Prince Masvaure
+10-Tinashe Kamunhukamwe
+11-Brandon Mavuta
+12-Ainsley Ndlovu
+13-Wesley Madhevere
+14-Charlton Tshuma
+15-Tadiwanashe Marumani
+16-Dion Myers
+
+1-Prabath Jayasuriya
+2-Kasun Rajitha
+3-Oshada Fernando
+4-Kamindu Mendis
+5-Priyamal Perera
+6-Minod Bhanuka
+7-Ashen Bandara
+8-Pathum Nissanka
+9-Binura Fernando
+10-Chamika Karunaratne
+11-Ramesh Mendis
+12-Charith Asalanka
+13-Praveen Jayawickrama
+14-Dhananjaya Lakshan
+15-Bhanuka Rajapaksa
+16-Maheesh Theekshana
